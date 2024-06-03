@@ -23,6 +23,7 @@ keycodemap | https://gitlab.com/keycodemap | https://gitlab.com/qemu-project/key
 [KubeVirt](https://kubevirt.io/) | https://github.com/kubevirt
 [OpenStack](https://www.openstack.org/) | https://opendev.org/openstack | https://github.com/openstack
 [oVirt](https://www.ovirt.org/) | https://github.com/oVirt
+[cockpit-machines](https://cockpit-project.org/#using-cockpit) | https://github.com/cockpit-project/cockpit-machines
 [Incus](https://linuxcontainers.org/incus/) (fork of [LXD](https://canonical.com/lxd)) | https://github.com/lxc/incus | (https://github.com/canonical/lxd) (LXD)
 [Proxmox Virtual Environment](https://proxmox.com/en/proxmox-virtual-environment/overview) | https://git.proxmox.com/ | https://github.com/proxmox
 [Cloud Hypervisor](https://www.cloudhypervisor.org/) | https://github.com/cloud-hypervisor
