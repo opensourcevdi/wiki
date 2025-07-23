@@ -29,3 +29,9 @@ keycodemap | https://gitlab.com/keycodemap | https://gitlab.com/qemu-project/key
 [Cloud Hypervisor](https://www.cloudhypervisor.org/) | https://github.com/cloud-hypervisor
 [Firecracker](https://firecracker-microvm.github.io/) | https://github.com/firecracker-microvm
 kvmtool (previously lkvm) | https://github.com/kvmtool/kvmtool | https://github.com/lkvm/lkvm (previously)
+
+Project | Main repository/group | Mirrors
+--- | --- | ---
+[drm-tip](https://drm.pages.freedesktop.org/maintainer-tools/repositories/drm-tip.html) | https://gitlab.freedesktop.org/drm/tip
+Linux firmware | https://gitlab.com/kernel-firmware/linux-firmware | https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/
+DRM Linux firmware | https://gitlab.com/kernel-firmware/drm-firmware
